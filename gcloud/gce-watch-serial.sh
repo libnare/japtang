@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PROJECT=""
-INSTANCE=""
+PROJECT="<project>"
+INSTANCE="<instance>"
 ZONE="asia-northeast3-c"
 PORT=1
 START=0
